@@ -25,7 +25,7 @@ Share your technical findings with your fellow data scientists. Explain your goa
 
 - **Requirements**: Summarize your goals and metrics for success, variables of interest, and removal of any outliers or data imputation. Your process description should be concise and relevant to your goals. Summarize statistical analysis, including model selection,  implementation, evaluation, and inference. Be convincing – justify all important decisions! Clearly label plots and visualizations. Include an Executive Summary.
 
-### **[Capstone, Part 5: Presentation + Non-Technical Summary](./part-05/readme.md)**
+<b><a href="Presentation slides.pdf">Capstone Part 5: Presentation slides</a></b>
 
 Take your findings and share a presentation that delivers the most important insights from your project to a non-technical audience. Tell us the most interesting story about your data. Break down your process for a novice audience. Make sure to include compelling visuals. Time is short, so be sure to practice and include only the most relevant components of your project.
 
