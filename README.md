@@ -4,7 +4,9 @@
 [this will include a brief summary of the project]
 
 Links to the different notebooks will go below
-### **[Capstone, Part 2: Dataset + Data Collection](./part-02/readme.md)**
+
+
+<b><a href="Capstone Part 2.ipynb">Capstone Part 2: Dataset + Data Collection</a></b>
 
 Use your newfound skills to source and collect the relevant data for your project. Data acquisition, transformation, and cleaning are typically the most time-consuming parts of data science projects, so don’t procrastinate!
 
