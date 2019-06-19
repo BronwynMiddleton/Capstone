@@ -5,6 +5,7 @@
 
 Links to the different notebooks will go below
 
+<b><a href="Capstone ideas.pdf">Capstone Part 1: Capstone ideas</a></b>
 
 <b><a href="Capstone Part 2.ipynb">Capstone Part 2: Dataset + Data Collection</a></b>
 
