@@ -13,13 +13,13 @@ Use your newfound skills to source and collect the relevant data for your projec
 
 - **Requirements**: Source and format the data for your project. Perform preliminary data munging and cleaning of the data relevant to your project goals.  Describe your data keeping the intended audience of your final report in mind.
 
-### **[Capstone, Part 3: EDA + Preliminary Analysis](./part-03/readme.md)**
+<b><a href="EDA-Capstone.ipynb">Capstone Part 3: EDA</a></b>
 
 Begin quantitatively describing and visualizing your data. With rich datasets, EDA can go down an endless number of roads. Maintain perspective on your goals and scope your EDA accordingly. Managing your own time is a critical skill in analysis projects.  Keep notes on your approach, results, setbacks, and findings.
 
 - **Requirements**: Perform initial descriptive and visual analysis of your data. Identify outliers, summarize risks and limitations, and describe how your EDA will inform your modeling decisions.
 
-### **[Capstone, Part 4: Findings + Technical Report](./part-04/readme.md)**
+<b><a href="Part 4 .ipynb">Capstone Part 4: EDA</a></b>
 
 Share your technical findings with your fellow data scientists. Explain your goals, describe modeling choices, evaluate model performance, and discuss results. Data science reporting is technical, but don’t forget that you should tell a compelling story about your data.
 
